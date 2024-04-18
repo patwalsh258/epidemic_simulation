@@ -24,7 +24,7 @@ Constants for disease
     RECOVERED = 1
     UNEXPOSED = 2
 
-    DEFAULT_RECOVERY_PERIOD = 340
+    DEFAULT_RECOVERY_PERIOD = 180
 
     COLOR_MAP = {
         INFECTED: SimColor.INFECTED,
